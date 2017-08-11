@@ -36,8 +36,6 @@ Here's a walkthrough of implemented user stories:
 <blockquote class="imgur-embed-pub" lang="en" data-id="dCr1KTc"><a href="//imgur.com/dCr1KTc">Video Walkthrough</a></blockquote>
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Project Analysis
 
 As part of your pre-work submission, please reflect on the app and answer the following questions below:
